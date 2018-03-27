@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1522124983 source:c:\users\borisgarcia\desktop\proyectotcii\main.cpp
+	<iostream>
+	"Gramatica.h"
+
+1522124738 c:\users\borisgarcia\desktop\proyectotcii\include\gramatica.h
+	<iostream>
+	<vector>
+	"NoTerminal.h"
+	<cstddef>
+	<sstream>
+	<string>
+
+1522039162 source:c:\users\borisgarcia\desktop\proyectotcii\src\noterminal.cpp
+	"NoTerminal.h"
+
+1522096410 c:\users\borisgarcia\desktop\proyectotcii\include\noterminal.h
+	<iostream>
+	<vector>
+	"NoTerminal.h"
+
+1522027084 source:c:\users\borisgarcia\desktop\proyectotcii\src\terminal.cpp
+	"Terminal.h"
+
+1522027084 c:\users\borisgarcia\desktop\proyectotcii\include\terminal.h
+
+1522125290 source:c:\users\borisgarcia\desktop\proyectotcii\src\gramatica.cpp
+	"Gramatica.h"
+
